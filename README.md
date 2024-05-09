@@ -76,4 +76,11 @@ else:
 
 ### Output:
 
+![image](https://github.com/Sharmilasha/WDM_EXP8/assets/94506182/4c913e55-a7c8-47a3-9129-d34adf25232b)
+
+![image](https://github.com/Sharmilasha/WDM_EXP8/assets/94506182/29a24776-a732-4aac-bd82-6864e11844e1)
+
+
+
 ### Result:
+Thus, To perform Web Scraping on Amazon using (beautifulsoup) Python has been executed successfully
